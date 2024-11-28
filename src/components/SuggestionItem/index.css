@@ -1,0 +1,15 @@
+/* Write your CSS here */
+li {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 5px;
+}
+img {
+  height: 25px;
+  width: 25px;
+}
+p {
+  color: #475569;
+}
